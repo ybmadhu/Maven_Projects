@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: madhusudhan.reddy
+Build-Jdk: 1.8.0_71
+Main-Class: com.syn.maven.App
+Created-By: Maven Integration for Eclipse
+
